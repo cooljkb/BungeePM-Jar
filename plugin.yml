@@ -1,0 +1,5 @@
+name: BungeePM
+main: me.cooljkb.bungee.BungeePM
+version: 1.0
+author: Cooljkb
+description: Private message someone on any server.
